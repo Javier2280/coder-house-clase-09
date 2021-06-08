@@ -1,0 +1,15 @@
+{
+  "name": "desafio-09-express-avanzado",
+  "version": "1.0.0",
+  "description": "Desafío entregable 09 (Express avanzado 2) para el curso de desarrollador backend.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Javier Cabaña",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
